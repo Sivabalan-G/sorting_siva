@@ -13,7 +13,7 @@ public class Javasort {
         for(int j:arr){
             System.out.println(j);
         }
-        Arrays.sort(arr);
+        Arrays.sort(arr);                                       //USING BUILT-IN
         System.out.println("After sorting:");
         for(int j:arr){
             System.out.println(j);
